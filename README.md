@@ -10,9 +10,9 @@
 Download using pip via pypi.
 
 ```bash
-$ pip install 'package' --upgrade
+$ pip install 'pygifconv_jh' --upgrade
   or
-$ pip install git+'repository'
+$ pip install git+https://github.com/LimJiHye0804/pygifconv_jh.git
 ```
 (Mac/homebrew users may need to use ``pip3``)
 
